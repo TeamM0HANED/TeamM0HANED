@@ -1,59 +1,74 @@
 <h1 align="center">👋 أهلاً بيك في بروفايل TeamM0HANED</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00C4FF&center=true&vCenter=true&width=600&lines=💻+مطور+ويب+وتطبيقات;🚀+عاشق+التكنولوجيا;🎯+هدفي+بناء+منصات+قوية+ومفيدة" alt="Typing SVG" />
+  💻 مطور ويب وتطبيقات | 🚀 عاشق التكنولوجيا | 🎯 هدفي بناء منصات قوية ومفيدة
 </p>
 
 ---
 
-## 👨‍💻 عني
-- 💼 مطور ويب وتطبيقات محترف.
-- 🌱 أتعلم تقنيات جديدة دائمًا.
-- 🎯 هدفي: تطوير منصات مبتكرة.
-- 📍 من: مصر.
+## 🌟 عني:
+- 🧑‍💻 أعمل على تطوير مواقع وتطبيقات احترافية  
+- 🌱 أتعلم حالياً **React.js, Node.js, TypeScript**  
+- 🎨 أحب التصميم الإبداعي والـ UI/UX  
+- 💡 أؤمن أن البرمجة = الإبداع + المنطق  
 
 ---
 
-## 🛠 المهارات
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-</p>
+## 🌐 تواصل معي:
 
----
-
-## 🚀 مشاريعي
 <p align="center">
-  <a href="https://teammohaned.com" target="_blank">
-    <img src="https://img.shields.io/badge/✅ موقعي الرسمي-00C4FF?style=for-the-badge"/>
+  <a href="https://teammohaned.com">
+    <img src="https://img.shields.io/badge/Website-Visit-brightgreen?style=for-the-badge" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/201119233458">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@YOUR_CHANNEL">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.tiktok.com/@YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/TikTok-Follow-black?style=for-the-badge&logo=tiktok" />
   </a>
 </p>
 
 ---
 
-## 📊 إحصائيات GitHub
+## 🛠 المهارات والتقنيات:
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TeamM0HANED&show_icons=true&theme=tokyonight" alt="إحصائيات"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TeamM0HANED&theme=tokyonight" alt="ستريك"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeamM0HANED&layout=compact&theme=tokyonight" alt="اللغات"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
 
 ---
 
-## 📞 تواصل معي
+## 🚀 مشاريعي:
+
+<div align="center">
+
+| 💊 منصة صيدليات الناصرية | 📚 منصة تعليمية متكاملة | 🛒 متجر إلكتروني احترافي |
+|---------------------------|---------------------------|---------------------------|
+| **نظام متكامل لإدارة الصيدليات مع لوحة تحكم وواجهة متجر.** <br> <a href="https://github.com/TeamM0HANED/pharmacy-project"><img src="https://img.shields.io/badge/GitHub-مشاهدة%20المشروع-black?style=for-the-badge&logo=github" /></a> | **منصة شبيهة بـ Coursera مع رفع الدروس، التقييمات، والتعليقات.** <br> <a href="https://github.com/TeamM0HANED/education-platform"><img src="https://img.shields.io/badge/GitHub-مشاهدة%20المشروع-black?style=for-the-badge&logo=github" /></a> | **متجر متكامل مع لوحة تحكم، إضافة منتجات، ونظام فواتير.** <br> <a href="https://github.com/TeamM0HANED/ecommerce-site"><img src="https://img.shields.io/badge/GitHub-مشاهدة%20المشروع-black?style=for-the-badge&logo=github" /></a> |
+
+</div>
+
+---
+
+### 💡 اقتباس اليوم:
+> "النجاح يبدأ بخطوة، فابدأ الآن."
+
+---
+
 <p align="center">
-  <a href="https://wa.me/201119233458" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-  <a href="https://www.youtube.com/@teammohaned" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-  <a href="https://www.tiktok.com/@teammohaned" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
-  </a>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" />
 </p>
