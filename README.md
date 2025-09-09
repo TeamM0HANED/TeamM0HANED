@@ -52,15 +52,15 @@
 
 <p align="center">
   <a href="https://teammohaned.com" target="_blank">
-    <img src="https://img.shields.io/badge/الموقع_الرئيسي-00BFFF?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Main%20Site-00BFFF?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://academy.teammohaned.com" target="_blank">
-    <img src="https://img.shields.io/badge/المنصة_التعليمية-FF4500?style=for-the-badge&logo=Read-the-Docs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Education-FF4500?style=for-the-badge&logo=Read-the-Docs&logoColor=white" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://store.teammohaned.com" target="_blank">
-    <img src="https://img.shields.io/badge/المتجر_الإلكتروني-32CD32?style=for-the-badge&logo=Shopify&logoColor=white" />
+    <img src="https://img.shields.io/badge/Store-32CD32?style=for-the-badge&logo=Shopify&logoColor=white" />
   </a>
 </p>
 
