@@ -1,5 +1,5 @@
-<!-- بانر متحرك -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=180&section=header&text=Welcome%20to%20My%20Profile!&fontSize=40&fontColor=fff&animation=fadeIn)
+<!-- بانر متحرك قوي -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:ff512f,100:f09819&height=250&section=header&text=Welcome%20to%20My%20Profile!&fontSize=50&fontAlign=50&fontColor=ffffff&animation=fadeIn&desc=TeamM0HANED%20|%20Full%20Stack%20Developer&descAlign=50&descAlignY=70&descSize=25)
 
 <!-- صورة شخصية -->
 <p align="center">
@@ -68,4 +68,4 @@
 ---
 
 <!-- Footer -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:ff512f,100:f09819&height=120&section=footer)
