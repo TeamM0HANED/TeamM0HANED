@@ -64,7 +64,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://finalview.42web.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Final%20View-FF0000?style=for-the-badge&logo=global&logoColor=white" />
+    <img src="https://img.shields.io/badge/Final%20View-FF0000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
 
