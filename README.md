@@ -17,9 +17,17 @@
 ## 🌐 تواصل معي:
 
 <p align="center">
-  [WhatsApp](https://wa.me/201119233458) | 
-  [YouTube](https://www.youtube.com/@YOUR_CHANNEL) | 
-  [TikTok](https://www.tiktok.com/@YOUR_USERNAME)
+  <a href="https://wa.me/201119233458">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@YOUR_CHANNEL">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.tiktok.com/@YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/TikTok-Follow-black?style=for-the-badge&logo=tiktok" />
+  </a>
 </p>
 
 ---
@@ -27,7 +35,15 @@
 ## 🛠 المهارات والتقنيات:
 
 <p align="center">
-  HTML5 | CSS3 | JavaScript | TypeScript | React | Node.js | PHP | Python | C++
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
 
 ---
@@ -35,10 +51,21 @@
 ## 🌐 مواقعنا الأخرى:
 
 <p align="center">
-  [Main Site](https://teammohaned.com) | 
-  [Education](https://academy.teammohaned.com) | 
-  [Store](https://store.teammohaned.com) | 
-  [Final View](https://finalview.42web.io/)
+  <a href="https://teammohaned.com" target="_blank">
+    <img src="https://img.shields.io/badge/Main%20Site-00BFFF?style=for-the-badge&logo=website&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://academy.teammohaned.com" target="_blank">
+    <img src="https://img.shields.io/badge/Education-FF4500?style=for-the-badge&logo=website&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://store.teammohaned.com" target="_blank">
+    <img src="https://img.shields.io/badge/Store-32CD32?style=for-the-badge&logo=website&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://finalview.42web.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Final%20View-FF0000?style=for-the-badge&logo=website&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -47,5 +74,5 @@
 > "النجاح يبدأ بخطوة، فابدأ الآن."
 
 <p align="center">
-  ![GIF](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" />
 </p>
