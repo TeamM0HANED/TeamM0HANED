@@ -1,63 +1,77 @@
-<!-- بانر أمامي قوي -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:ff512f,100:f09819&height=250&section=header&text=Welcome%20to%20My%20Profile!&fontSize=50&fontAlign=50&fontColor=ffffff&animation=fadeIn&desc=TeamM0HANED%20|%20Full%20Stack%20Developer&descAlign=50&descAlignY=70&descSize=25)
+<!-- =========== ULTRA ULTRA ULTRA PRO MAX HEADER =========== -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:ff4e50,100:1f8a70&height=320&section=header&text=TEAMM0HANED%20—%20ULTRA%20PRO%20MAX&fontSize=64&fontAlign=50&fontColor=ffffff&animation=glow&desc=Full%20Stack%20|%20PHP%20%26%20Python%20%26%20React&descAlign=50&descAlignY=78&descSize=20)
 
-<!-- صورة شخصية + GIF خلفي -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/TeamM0HANED?v=4" width="150" height="150" style="border-radius:50%">
-</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+  <!-- Circular avatar with glow -->
+  <img src="https://avatars.githubusercontent.com/u/TeamM0HANED?v=4" width="170" height="170" style="border-radius:50%; box-shadow: 0 10px 30px rgba(255,78,80,0.35);">
 </p>
 
-<!-- تحية متحركة -->
 <h1 align="center">
-  👋 أهلاً بيك في بروفايلي <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  👋 مرحبًا — أنا <b>TeamM0HANED</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="36" alt="wave">
 </h1>
+<p align="center"><i>ULTRA • PRO • MAX — Full Stack Developer</i></p>
+
+---
+
+## 🔥 عني
+- 🌱 أتعلم حاليًا: **React • Node.js • PHP • Python**
+- 💬 اسألني عن: **Web, APIs, Automation, DevOps**
+- 📫 تواصل: [Email](mailto:youremail@gmail.com)
+- ⚡ هواياتي: بناء واجهات جميلة وتجربة مستخدم سلسة
+
+---
+
+## 🛠 المهارات — ULTRA STACK
 <p align="center">
-💻 مطور ويب | 📱 مطور تطبيقات | 🚀 مهتم بالتقنيات الحديثة
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> 
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> 
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> 
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 
 ---
 
-## 🔥 عني:
-- 🌱 أتعلم حاليًا: **React, Node.js, PHP, Python**
-- 💬 اسألني عن: **HTML, CSS, JavaScript, PHP, Python**
-- 📫 تواصل معي: [Email](mailto:youremail@gmail.com)
-- ⚡ هواياتي: **البرمجة، التصميم، تعلم الجديد دائمًا**
-
----
-
-## 🛠 المهارات واللغات:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 📊 إحصائياتي:
+## 📊 إحصائياتي القوية
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TeamM0HANED&show_icons=true&theme=radical" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TeamM0HANED&theme=radical" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=TeamM0HANED&show_icons=true&theme=radical" width="49%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TeamM0HANED&theme=radical" width="49%">
 </p>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TeamM0HANED&layout=compact&langs_count=12&theme=tokyonight)
 
 ---
 
-## 🏆 الجوائز والأوسمة:
-![Trophies](https://github-profile-trophy.vercel.app/?username=TeamM0HANED&theme=radical&no-frame=true&margin-w=10)
+## 🏆 الجوائز — Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TeamM0HANED&theme=radical&no-frame=true&margin-w=10" alt="trophies">
+</p>
 
 ---
 
-## 🌐 تواصل معي:
+## 🔥 المشاريع المميّزة (Pinned)
+- 🖥 **[MyPortfolio](https://github.com/TeamM0HANED/MyPortfolio)** – صفحة عرض احترافية  
+- 📱 **[MobileApp](https://github.com/TeamM0HANED/MobileApp)** – تطبيق موبايل تجريبي  
+- 💻 **[FullStackApp](https://github.com/TeamM0HANED/FullStackApp)** – مشروع كامل (PHP + React)
+
+---
+
+## 👀 عدد الزوار — كما طلبت: **311**
+<p align="center">
+  <!-- ثابت: badge يعرض الرقم 311 كما طلبت -->
+  <img src="https://img.shields.io/badge/Visitors-311-blue?style=for-the-badge" alt="Visitors: 311">
+</p>
+
+> ملاحظة: الصورة أعلاه **ثابتة** وتظهر الرقم 311 كما طلبت.  
+> لو عايز العداد يبقى ديناميكي وحقيقي (يحسب الزوار فعليًا) أقولك أزوّد ريكاردا real counter (شرح بسيط وسهل).
+
+---
+
+## 🌐 تواصل
 <p align="center">
 <a href="https://facebook.com/TeamM0HANED"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 <a href="https://linkedin.com/in/TeamM0HANED"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -67,27 +81,10 @@
 
 ---
 
-## 📈 نشاطي على GitHub:
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TeamM0HANED&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 🧠 اقتباس اليوم (Dynamic)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote">
+</p>
 
----
-
-## 🔥 المشاريع المميزة:
-- 🖥 **[My Web Portfolio](https://github.com/TeamM0HANED/MyPortfolio)**  
-- 📱 **[Mobile App Project](https://github.com/TeamM0HANED/MobileApp)**  
-- 💻 **[Full Stack App](https://github.com/TeamM0HANED/FullStackApp)**  
-
----
-
-## 👀 عدد الزوار:
-![Visitor Count](https://komarev.com/ghpvc/?username=TeamM0HANED&color=blue&style=for-the-badge)
-
----
-
-## 🧠 اقتباس اليوم:
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-<!-- Footer -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:ff512f,100:f09819&height=120&section=footer)
+<!-- Footer Ultra -->
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:ff4e50,100:1f8a70&height=120&section=footer)
