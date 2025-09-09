@@ -1,9 +1,7 @@
 <h1 align="center">👋 أهلاً بيك في بروفايل TeamM0HANED</h1>
 
 <p align="center">
-  <span style="font-size:22px; color:#00C4FF;">💻 مطور ويب وتطبيقات</span><br>
-  <span style="font-size:22px; color:#FF5733;">🚀 عاشق التكنولوجيا</span><br>
-  <span style="font-size:22px; color:#28A745;">🎯 هدفي بناء منصات قوية ومفيدة</span>
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00C4FF&center=true&vCenter=true&width=600&lines=💻+مطور+ويب+وتطبيقات;🚀+عاشق+التكنولوجيا;🎯+هدفي+بناء+منصات+قوية+ومفيدة" alt="Typing SVG" />
 </p>
 
 ---
