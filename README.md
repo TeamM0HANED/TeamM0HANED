@@ -1,9 +1,16 @@
 <h1 align="center">👋 أهلاً بيك في بروفايل TeamM0HANED</h1>
 
-<!-- الكتابة المتحركة -->
-<p align="center" dir="rtl">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00C4FF&center=true&vCenter=true&width=600&lines=مطور+ويب+وتطبيقات;عاشق+التكنولوجيا;هدفي+بناء+منصات+قوية+ومفيدة" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00C4FF&center=true&vCenter=true&width=600&lines=💻+مطور+ويب+وتطبيقات;🚀+عاشق+التكنولوجيا;🎯+هدفي+بناء+منصات+قوية+ومفيدة" alt="Typing SVG" />
 </p>
+
+---
+
+## 👨‍💻 عني
+- 💼 مطور ويب وتطبيقات محترف.
+- 🌱 أتعلم تقنيات جديدة دائمًا.
+- 🎯 هدفي: تطوير منصات مبتكرة.
+- 📍 من: مصر.
 
 ---
 
@@ -23,8 +30,17 @@
 ## 🚀 مشاريعي
 <p align="center">
   <a href="https://teammohaned.com" target="_blank">
-    <img src="https://img.shields.io/badge/موقعي الرسمي-00C4FF?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/✅ موقعي الرسمي-00C4FF?style=for-the-badge"/>
   </a>
+</p>
+
+---
+
+## 📊 إحصائيات GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TeamM0HANED&show_icons=true&theme=tokyonight" alt="إحصائيات"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TeamM0HANED&theme=tokyonight" alt="ستريك"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeamM0HANED&layout=compact&theme=tokyonight" alt="اللغات"/>
 </p>
 
 ---
