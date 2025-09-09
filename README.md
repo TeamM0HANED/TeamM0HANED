@@ -52,18 +52,6 @@
 
 ---
 
-## 🚀 مشاريعي:
-
-<div align="center">
-
-| 💊 منصة صيدليات الناصرية | 📚 منصة تعليمية متكاملة | 🛒 متجر إلكتروني احترافي |
-|---------------------------|---------------------------|---------------------------|
-| **نظام متكامل لإدارة الصيدليات مع لوحة تحكم وواجهة متجر.** <br> <a href="https://github.com/TeamM0HANED/pharmacy-project"><img src="https://img.shields.io/badge/GitHub-مشاهدة%20المشروع-black?style=for-the-badge&logo=github" /></a> | **منصة شبيهة بـ Coursera مع رفع الدروس، التقييمات، والتعليقات.** <br> <a href="https://github.com/TeamM0HANED/education-platform"><img src="https://img.shields.io/badge/GitHub-مشاهدة%20المشروع-black?style=for-the-badge&logo=github" /></a> | **متجر متكامل مع لوحة تحكم، إضافة منتجات، ونظام فواتير.** <br> <a href="https://github.com/TeamM0HANED/ecommerce-site"><img src="https://img.shields.io/badge/GitHub-مشاهدة%20المشروع-black?style=for-the-badge&logo=github" /></a> |
-
-</div>
-
----
-
 ### 💡 اقتباس اليوم:
 > "النجاح يبدأ بخطوة، فابدأ الآن."
 
