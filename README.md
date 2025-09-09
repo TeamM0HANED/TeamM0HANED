@@ -62,6 +62,10 @@
   <a href="https://store.teammohaned.com" target="_blank">
     <img src="https://img.shields.io/badge/Store-32CD32?style=for-the-badge&logo=Shopify&logoColor=white" />
   </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://finalview.42web.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Final%20View-FF0000?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
+  </a>
 </p>
 
 ---
