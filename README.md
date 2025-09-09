@@ -1,4 +1,6 @@
-<h1 align="center">👋 أهلاً بيك في بروفايل TeamM0HANED</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&color=00C4FF&center=true&vCenter=true&width=600&lines=أهلاً+بيك" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   💻 مطور ويب وتطبيقات | 🚀 عاشق التكنولوجيا | 🎯 هدفي بناء منصات قوية ومفيدة
@@ -66,8 +68,6 @@
 
 ### 💡 اقتباس اليوم:
 > "النجاح يبدأ بخطوة، فابدأ الآن."
-
----
 
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" />
