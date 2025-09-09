@@ -21,14 +21,6 @@
     <img src="https://img.shields.io/badge/Website-Visit-brightgreen?style=for-the-badge" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://wa.me/201119233458">
     <img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp" />
   </a>
