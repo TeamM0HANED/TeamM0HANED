@@ -17,10 +17,6 @@
 ## 🌐 تواصل معي:
 
 <p align="center">
-  <a href="https://teammohaned.com">
-    <img src="https://img.shields.io/badge/Website-Visit-brightgreen?style=for-the-badge" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://wa.me/201119233458">
     <img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp" />
   </a>
@@ -48,6 +44,24 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</p>
+
+---
+
+## 🌐 مواقعنا الأخرى:
+
+<p align="center">
+  <a href="https://teammohaned.com" target="_blank">
+    <img src="https://img.shields.io/badge/موقعنا_الرئيسي-00C4FF?style=for-the-badge" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://academy.teammohaned.com" target="_blank">
+    <img src="https://img.shields.io/badge/المنصة_التعليمية-FF5733?style=for-the-badge" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://store.teammohaned.com" target="_blank">
+    <img src="https://img.shields.io/badge/المتجر_الإلكتروني-33FF57?style=for-the-badge" />
+  </a>
 </p>
 
 ---
