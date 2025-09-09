@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=35&color=00BFFF&center=true&vCenter=true&width=600&lines=اهلا+بيك" alt="Typing SVG" />
-</h1>
+<h1 align="center" style="color:#00BFFF;">أهلا بيك</h1>
 
 <p align="center">
   💻 مطور ويب وتطبيقات | 🚀 عاشق التكنولوجيا | 🎯 هدفي بناء منصات قوية ومفيدة
