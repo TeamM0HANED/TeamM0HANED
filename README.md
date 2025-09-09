@@ -18,15 +18,15 @@
 
 <p align="center">
   <a href="https://wa.me/201119233458">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp" />
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/@YOUR_CHANNEL">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube" />
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.tiktok.com/@YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/TikTok-Follow-black?style=for-the-badge&logo=tiktok" />
+    <img src="https://img.shields.io/badge/TikTok-Follow-black?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
 </p>
 
@@ -52,7 +52,7 @@
 
 <p align="center">
   <a href="https://teammohaned.com" target="_blank">
-    <img src="https://img.shields.io/badge/Main%20Site-00BFFF?style=for-the-badge&logo=internet-explorer&logoColor=white" />
+    <img src="https://img.shields.io/badge/Main%20Site-00BFFF?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://academy.teammohaned.com" target="_blank">
