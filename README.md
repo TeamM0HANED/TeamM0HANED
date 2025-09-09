@@ -21,11 +21,11 @@
     <img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@YOUR_CHANNEL">
+  <a href="https://www.youtube.com/@team_mohaned">
     <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.tiktok.com/@YOUR_USERNAME">
+  <a href="https://www.tiktok.com/@team_m0haned">
     <img src="https://img.shields.io/badge/TikTok-Follow-black?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
 </p>
@@ -76,3 +76,4 @@
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" />
 </p>
+
