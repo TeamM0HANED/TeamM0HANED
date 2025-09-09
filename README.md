@@ -28,6 +28,18 @@
   <a href="https://twitter.com/yourusername">
     <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter" />
   </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/201119233458">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@YOUR_CHANNEL">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.tiktok.com/@YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/TikTok-Follow-black?style=for-the-badge&logo=tiktok" />
+  </a>
 </p>
 
 ---
