@@ -71,7 +71,7 @@
 
 ---
 
-## 🔗 منصاتنا ومواقعنا الأخرى
+## 🔗 منصاتنا ومواقعنا الأخرى (الأيقونات محسَّنة للظهور)
 
 تفضل بزيارة مواقعنا المختلفة للاطلاع على المزيد من المحتوى والمشاريع:
 
@@ -85,31 +85,31 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://store.teammohaned.com" target="_blank">
-    <img src="https://img.shields.io/badge/المتجر-32CD32?style=for-the-badge&logo=shopify&logoColor=white" alt="Store Badge" />
+    <img src="https://img.shields.io/badge/المتجر-00704A?style=for-the-badge&logo=shopify&logoColor=white" alt="Store Badge" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://finalview.42web.io/" target="_blank">
-    <img src="https://img.shields.io/badge/المشروع_الخاص-FF0000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Final View Badge" />
+    <img src="https://img.shields.io/badge/Final_View-000000?style=for-the-badge&logo=webmoney&logoColor=white" alt="Final View Badge" />
   </a>
 </p>
 
 ---
 
-## التواصل والمتابعة 📧
+## التواصل والمتابعة 📧 (الأيقونات محسَّنة للظهور)
 
 يسرني تواصلك ومتابعتك على هذه المنصات:
 
 <p align="center">
   <a href="https://wa.me/201119233458">
-    <img src="https://img.shields.io/badge/WhatsApp-تحدث_معي-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Chat Badge" />
+    <img src="https://img.shields.io/badge/WhatsApp-تواصل_مباشر-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Chat Badge" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/@team_mohaned">
-    <img src="https://img.shields.io/badge/YouTube-اشترك-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Subscribe Badge" />
+    <img src="https://img.shields.io/badge/YouTube-شاهد_محتواي-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Subscribe Badge" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.tiktok.com/@team_m0haned">
-    <img src="https://img.shields.io/badge/TikTok-تابعني-black?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Follow Badge" />
+    <img src="https://img.shields.io/badge/TikTok-تابعني-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Follow Badge" />
   </a>
 </p>
 
@@ -124,4 +124,6 @@
 
 ***
 
-*هذا الملف تم إنشاؤه وتنسيقه بواسطة الذكاء الاصطناعي لمساعدتك في عرض مهاراتك بشكل احترافي.*
+*هذا ملف README متكامل ومحسَّن لعرضه على GitHub.*
+
+هل هناك أي جزء آخر تود تعديله أو إضافته قبل رفعه؟
